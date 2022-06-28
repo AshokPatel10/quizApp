@@ -1,5 +1,5 @@
 # Quiz App in javaScript   
-created by Ashok patel [ashokpatel998256@gmail.com](mailto:ashokpatel998256@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visit for preview-  <https://github.com/AshokPatel10/quizApp>
+created by Ashok patel [ashokpatel998256@gmail.com](mailto:ashokpatel998256@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Visit for preview-  <https://ashokpatel10.github.io/quizApp/>
 ****
 ## Features
 >### if you minimize or change tab for first time it will show warning. and for second time if you do same. you will disqulified.  
